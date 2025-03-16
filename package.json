@@ -1,0 +1,22 @@
+{
+  "name": "dontcode-cli",
+  "version": "1.0.0",
+  "description": "npm package for dontcode.vercel.app and dontcode-api.onrender.com",
+  "keywords": [
+    "dontcode",
+    "dontcode-cli"
+  ],
+  "license": "ISC",
+  "author": "tudorica-fara-frica",
+  "type": "commonjs",
+  "main": "index.js",
+  "bin": {
+    "dontcode-cli": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.5"
+  }
+}
