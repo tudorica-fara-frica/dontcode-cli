@@ -51,5 +51,3 @@ The second prompt asks what you want to do:
 ### Step 3: Specify a File (If Required)
 
 If you choose an action that requires a file (options 2, 3 or 4), the CLI prompts you to enter the filename
-
-
